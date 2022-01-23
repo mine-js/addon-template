@@ -1,0 +1,1 @@
+# Mine.JS Sample addon template
